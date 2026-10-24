@@ -22,13 +22,28 @@ public class PlaceAndInteractAR : MonoBehaviour
 
     void Update()
     {
-        if (Input.touchCount == 0) return;
+        // Works with BOTH finger tap (phone) and left mouse click (laptop XR Simulation)
+        Vector2 inputPos = Vector2.zero;
+        if (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began)
+        {
+            inputPos = Input.GetTouch(0).position;
+        }
+        else if (Input.GetMouseButtonDown(0))
+        {
+            inputPos = Input.mousePosition;
+        }
+        else
+        {
+            return;
+        }
 
-        Touch touch = Input.GetTouch(0);
-        if (touch.phase != TouchPhase.Began) return;
+        // Ignore clicks on UI buttons
+        if (UnityEngine.EventSystems.EventSystem.current != null &&
+            UnityEngine.EventSystems.EventSystem.current.IsPointerOverGameObject())
+            return;
 
-        // 1. Check if user tapped an existing 3D SDLC Phase Block
-        Ray ray = Camera.main.ScreenPointToRay(touch.position);
+        // 1. Check if user clicked/tapped an existing 3D SDLC Phase Block
+        Ray ray = Camera.main.ScreenPointToRay(inputPos);
         if (Physics.Raycast(ray, out RaycastHit hitInfo))
         {
             SDLCElement element = hitInfo.collider.GetComponent<SDLCElement>();
@@ -40,7 +55,7 @@ public class PlaceAndInteractAR : MonoBehaviour
         }
 
         // 2. Otherwise, Raycast against AR Planes to place or move the stage
-        if (raycastManager != null && raycastManager.Raycast(touch.position, hits, TrackableType.PlaneWithinPolygon))
+        if (raycastManager != null && raycastManager.Raycast(inputPos, hits, TrackableType.PlaneWithinPolygon))
         {
             Pose hitPose = hits[0].pose;
             if (spawnedStage == null)

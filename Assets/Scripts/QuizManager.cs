@@ -79,6 +79,8 @@ public class QuizManager : MonoBehaviour
         if (feedbackText != null) feedbackText.text = "";
     }
 
+  
+
     public void SubmitAnswer(int chosenIndex)
     {
         Question q = questions[currentQuestionIndex];
