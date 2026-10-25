@@ -1062,230 +1062,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 463815203}
   m_CullTransparentMesh: 1
---- !u!1001 &513376850
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 74547686804224001, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.65
-      objectReference: {fileID: 0}
-    - target: {fileID: 74547686804224001, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 74547686804224001, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.65
-      objectReference: {fileID: 0}
-    - target: {fileID: 74547686804224001, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 74547686804224001, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 74547686804224001, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_ConstrainProportionsScale
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1195583531800704321, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.65
-      objectReference: {fileID: 0}
-    - target: {fileID: 1195583531800704321, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 1195583531800704321, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.65
-      objectReference: {fileID: 0}
-    - target: {fileID: 1195583531800704321, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.08
-      objectReference: {fileID: 0}
-    - target: {fileID: 1195583531800704321, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.04
-      objectReference: {fileID: 0}
-    - target: {fileID: 1195583531800704321, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_ConstrainProportionsScale
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1534165992291542872, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1534165992291542872, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.05
-      objectReference: {fileID: 0}
-    - target: {fileID: 1534165992291542872, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.65
-      objectReference: {fileID: 0}
-    - target: {fileID: 1534165992291542872, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.97638255
-      objectReference: {fileID: 0}
-    - target: {fileID: 1534165992291542872, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.12854315
-      objectReference: {fileID: 0}
-    - target: {fileID: 1534165992291542872, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.17216265
-      objectReference: {fileID: 0}
-    - target: {fileID: 1534165992291542872, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.022665637
-      objectReference: {fileID: 0}
-    - target: {fileID: 1534165992291542872, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 1534165992291542872, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -20
-      objectReference: {fileID: 0}
-    - target: {fileID: 1534165992291542872, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1713500682491071616, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_Name
-      value: SDLCStage
-      objectReference: {fileID: 0}
-    - target: {fileID: 4619321450988791961, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_Name
-      value: Step4_Test
-      objectReference: {fileID: 0}
-    - target: {fileID: 5405392900169860129, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.65
-      objectReference: {fileID: 0}
-    - target: {fileID: 5405392900169860129, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 5405392900169860129, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.65
-      objectReference: {fileID: 0}
-    - target: {fileID: 5405392900169860129, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.16
-      objectReference: {fileID: 0}
-    - target: {fileID: 5405392900169860129, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.08
-      objectReference: {fileID: 0}
-    - target: {fileID: 5405392900169860129, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_ConstrainProportionsScale
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7163742101979597242, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.035
-      objectReference: {fileID: 0}
-    - target: {fileID: 7163742101979597242, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.035
-      objectReference: {fileID: 0}
-    - target: {fileID: 7163742101979597242, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.035
-      objectReference: {fileID: 0}
-    - target: {fileID: 7163742101979597242, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.084
-      objectReference: {fileID: 0}
-    - target: {fileID: 7163742101979597242, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.265
-      objectReference: {fileID: 0}
-    - target: {fileID: 7163742101979597242, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7163742101979597242, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_ConstrainProportionsScale
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8391762682933244646, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.65
-      objectReference: {fileID: 0}
-    - target: {fileID: 8391762682933244646, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 8391762682933244646, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.65
-      objectReference: {fileID: 0}
-    - target: {fileID: 8391762682933244646, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.08
-      objectReference: {fileID: 0}
-    - target: {fileID: 8391762682933244646, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.04
-      objectReference: {fileID: 0}
-    - target: {fileID: 8391762682933244646, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_ConstrainProportionsScale
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9088859681182800450, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.65
-      objectReference: {fileID: 0}
-    - target: {fileID: 9088859681182800450, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 9088859681182800450, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.65
-      objectReference: {fileID: 0}
-    - target: {fileID: 9088859681182800450, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.16
-      objectReference: {fileID: 0}
-    - target: {fileID: 9088859681182800450, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.08
-      objectReference: {fileID: 0}
-    - target: {fileID: 9088859681182800450, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      propertyPath: m_ConstrainProportionsScale
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 6842995269935564195, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1939935733}
-    - targetCorrespondingSourceObject: {fileID: 7532679003607577509, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2121927817}
-    - targetCorrespondingSourceObject: {fileID: 3400228752083152717, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 2074455068}
-    - targetCorrespondingSourceObject: {fileID: 4619321450988791961, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1995223486}
-    - targetCorrespondingSourceObject: {fileID: 4308383329320871234, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 607468676}
-  m_SourcePrefab: {fileID: 100100000, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
 --- !u!1 &539341010
 GameObject:
   m_ObjectHideFlags: 0
@@ -1423,33 +1199,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 539341010}
   m_CullTransparentMesh: 1
---- !u!1 &607468671 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4308383329320871234, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-  m_PrefabInstance: {fileID: 513376850}
-  m_PrefabAsset: {fileID: 0}
---- !u!23 &607468674 stripped
-MeshRenderer:
-  m_CorrespondingSourceObject: {fileID: 2490850861644080598, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-  m_PrefabInstance: {fileID: 513376850}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &607468676
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 607468671}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6aed35cb57b9ad148ab62434cd04171e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SDLCElement
-  stepIndex: 4
-  phaseCode: DEPLOY
-  phaseTitle: 1. Requirements Engineering
-  definition: In Waterfall, all client requirements are locked upfront in an SRS document before design begins. In Scrum, requirements evolve continuously in a prioritized Product Backlog.
-  codeSnippet: '>> 1: GatherRequirements(backlog);'
 --- !u!1 &630600347
 GameObject:
   m_ObjectHideFlags: 0
@@ -2345,11 +2094,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &855041427 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7163742101979597242, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-  m_PrefabInstance: {fileID: 513376850}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &859188417
 GameObject:
   m_ObjectHideFlags: 0
@@ -3984,6 +3728,135 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1164235038}
   m_CullTransparentMesh: 1
+--- !u!1 &1190231753
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1190231754}
+  - component: {fileID: 1190231755}
+  m_Layer: 0
+  m_Name: Audio Source
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1190231754
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1190231753}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1512910967}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &1190231755
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1190231753}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1215420866
 GameObject:
   m_ObjectHideFlags: 0
@@ -4674,6 +4547,7 @@ GameObject:
   - component: {fileID: 1439895968}
   - component: {fileID: 1439895967}
   - component: {fileID: 1439895966}
+  - component: {fileID: 1439895971}
   m_Layer: 0
   m_Name: XR Origin (Mobile AR)
   m_TagString: Untagged
@@ -4760,6 +4634,24 @@ Transform:
   - {fileID: 664573390}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1439895971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1439895965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dea56a9eaadd1c439095de4f9a371cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.XR.ARFoundation::UnityEngine.XR.ARFoundation.ARTrackedImageManager
+  <trackablesChanged>k__BackingField:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SerializedLibrary: {fileID: 11400000, guid: b79d792a242e2804084e61404f1283c8, type: 2}
+  m_MaxNumberOfMovingImages: 2
+  m_TrackedImagePrefab: {fileID: 1713500682491071616, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
 --- !u!1 &1464421192
 GameObject:
   m_ObjectHideFlags: 0
@@ -5033,13 +4925,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a171e7b37f6b974095c53b343d2901a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::StepThroughEngine
-  workItemOrb: {fileID: 855041427}
+  workItemOrb: {fileID: 0}
   phaseBlocks:
-  - {fileID: 1939935731}
-  - {fileID: 2121927815}
-  - {fileID: 2074455066}
-  - {fileID: 1995223484}
-  - {fileID: 607468674}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   matBluePhase: {fileID: 2100000, guid: 97fabfbf0670d3f47939dc1f97cb41eb, type: 2}
   matOrangeActive: {fileID: 2100000, guid: 9889df2b9d121e247b39b5c0e44e076a, type: 2}
   matRedError: {fileID: 2100000, guid: 3c79099c22788f545af5ef3c664848ba, type: 2}
@@ -5049,10 +4941,17 @@ MonoBehaviour:
   reworkCostText: {fileID: 804592466}
   currentPhaseText: {fileID: 643675530}
   modeButtonText: {fileID: 1535662785}
-  audioSource: {fileID: 0}
-  stepNarrations: []
+  objectiveText: {fileID: 871558761}
+  sdlcStageRoot: {fileID: 0}
+  audioSource: {fileID: 1190231755}
+  stepNarrations:
+  - {fileID: 8300000, guid: 90a90620dea889a4aaa5c57729b6d954, type: 3}
+  - {fileID: 8300000, guid: c591a4b886716a544927ab11723c6803, type: 3}
+  - {fileID: 8300000, guid: 6eb46d503489d3041998f9b8a6d9c8c9, type: 3}
+  - {fileID: 8300000, guid: 8f97489912aaddc429adf9009f359889, type: 3}
+  - {fileID: 8300000, guid: db991218c4b0c6c4ead2a2f09d443bea, type: 3}
   errorBuzzClip: {fileID: 0}
-  isVoiceMuted: 0
+  isVoiceMuted: 1
 --- !u!114 &1512910966
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5081,7 +4980,8 @@ Transform:
   m_LocalPosition: {x: 0.4, y: -0, z: 1.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1190231754}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1512910968
@@ -6402,60 +6302,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1888094294}
   m_CullTransparentMesh: 1
---- !u!1 &1939935728 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6842995269935564195, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-  m_PrefabInstance: {fileID: 513376850}
-  m_PrefabAsset: {fileID: 0}
---- !u!23 &1939935731 stripped
-MeshRenderer:
-  m_CorrespondingSourceObject: {fileID: 1715466863985909751, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-  m_PrefabInstance: {fileID: 513376850}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1939935733
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1939935728}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6aed35cb57b9ad148ab62434cd04171e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SDLCElement
-  stepIndex: 0
-  phaseCode: REQ
-  phaseTitle: 1. Requirements Engineering
-  definition: In Waterfall, all client requirements are locked upfront in an SRS document before design begins. In Scrum, requirements evolve continuously in a prioritized Product Backlog.
-  codeSnippet: '>> 1: GatherRequirements(backlog);'
---- !u!1 &1995223481 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4619321450988791961, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-  m_PrefabInstance: {fileID: 513376850}
-  m_PrefabAsset: {fileID: 0}
---- !u!23 &1995223484 stripped
-MeshRenderer:
-  m_CorrespondingSourceObject: {fileID: 7143127385780469274, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-  m_PrefabInstance: {fileID: 513376850}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1995223486
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1995223481}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6aed35cb57b9ad148ab62434cd04171e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SDLCElement
-  stepIndex: 3
-  phaseCode: TEST
-  phaseTitle: 1. Requirements Engineering
-  definition: In Waterfall, all client requirements are locked upfront in an SRS document before design begins. In Scrum, requirements evolve continuously in a prioritized Product Backlog.
-  codeSnippet: '>> 1: GatherRequirements(backlog);'
 --- !u!1 &2019814248
 GameObject:
   m_ObjectHideFlags: 0
@@ -7218,60 +7064,6 @@ RectTransform:
   m_AnchoredPosition: {x: -5, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &2074455063 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3400228752083152717, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-  m_PrefabInstance: {fileID: 513376850}
-  m_PrefabAsset: {fileID: 0}
---- !u!23 &2074455066 stripped
-MeshRenderer:
-  m_CorrespondingSourceObject: {fileID: 504565098778159449, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-  m_PrefabInstance: {fileID: 513376850}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2074455068
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2074455063}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6aed35cb57b9ad148ab62434cd04171e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SDLCElement
-  stepIndex: 2
-  phaseCode: CODE
-  phaseTitle: 1. Requirements Engineering
-  definition: In Waterfall, all client requirements are locked upfront in an SRS document before design begins. In Scrum, requirements evolve continuously in a prioritized Product Backlog.
-  codeSnippet: '>> 1: GatherRequirements(backlog);'
---- !u!1 &2121927812 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7532679003607577509, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-  m_PrefabInstance: {fileID: 513376850}
-  m_PrefabAsset: {fileID: 0}
---- !u!23 &2121927815 stripped
-MeshRenderer:
-  m_CorrespondingSourceObject: {fileID: 7852426590721091930, guid: 75022dca12b32e54db35811567d49c0b, type: 3}
-  m_PrefabInstance: {fileID: 513376850}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2121927817
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2121927812}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6aed35cb57b9ad148ab62434cd04171e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SDLCElement
-  stepIndex: 1
-  phaseCode: DESIGN
-  phaseTitle: 1. Requirements Engineering
-  definition: In Waterfall, all client requirements are locked upfront in an SRS document before design begins. In Scrum, requirements evolve continuously in a prioritized Product Backlog.
-  codeSnippet: '>> 1: GatherRequirements(backlog);'
 --- !u!1 &2142574207
 GameObject:
   m_ObjectHideFlags: 0
@@ -7358,4 +7150,3 @@ SceneRoots:
   - {fileID: 1512910967}
   - {fileID: 1543514766}
   - {fileID: 377102784}
-  - {fileID: 513376850}

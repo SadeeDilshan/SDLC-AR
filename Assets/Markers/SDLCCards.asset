@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: SDLCCards
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5393411989564169913
+  m_GuidHigh: 17055217531007473545
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5674832549797849966
+      m_GuidHigh: 2912697956764666527
+    m_SerializedTextureGuid:
+      m_GuidLow: 10377654804846599513
+      m_GuidHigh: 17030930699565684008
+    m_Size: {x: 0.1, y: 0.10021231}
+    m_SpecifySize: 1
+    m_Name: Agile_Marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5606240371405885453
+      m_GuidHigh: 3444661754909428380
+    m_SerializedTextureGuid:
+      m_GuidLow: 16524972921795240680
+      m_GuidHigh: 14805835448971916824
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Waterfall_Marker
+    m_Texture: {fileID: 0}
